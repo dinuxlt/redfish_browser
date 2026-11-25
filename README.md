@@ -70,7 +70,7 @@ See Fyne's [getting started guide](https://docs.fyne.io/started/) for more detai
 ### Build
 
 ```sh
-git clone <this-repo-url>
+git clone https://github.com/dinuxlt/redfish_browser.git
 cd redfish_browser
 ./build.sh            # builds ./redfish-browser and ./mockbmc
 ./redfish-browser
