@@ -1,4 +1,4 @@
-redfish-browser
-mockbmc
+/redfish-browser
+/mockbmc
 .buildlibs/
 *.json
